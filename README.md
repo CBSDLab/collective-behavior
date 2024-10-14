@@ -12,7 +12,7 @@ Grannovetter's threshold theory is one of the most widely cited papers in the so
 
 # Exercise
 
-Modify a susceptible-infected (SI) structure of diffusion innivation to incorporate Grannovetter's threshold theory of collective behavior.
+Modify the susceptible-infected (SI) structure of diffusion innivation to incorporate Grannovetter's threshold theory of collective behavior.
 
 # References
 
